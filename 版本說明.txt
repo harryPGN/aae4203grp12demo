@@ -1,0 +1,9 @@
+PolyU Positioning Lab — GNSS 3D 衛星模型更新
+
+- 每顆模擬衛星顯示衛星主體、左右太陽能板及天線。
+- 保留 UE 至衛星的訊號線及原本 LOS／反射／遮蔽狀態顏色與虛線表示。
+- 衛星模型大小隨 Outdoor／Indoor 場景縮放。
+- 不更改 GNSS pseudorange、定位解算或誤差模型。
+- 保留四個獨立矩形實心建築及 localhost 啟動方式。
+
+啟動：解壓縮整個資料夾，雙擊 START_LOCALHOST.bat。
